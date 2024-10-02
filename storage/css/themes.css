@@ -50,12 +50,12 @@
 :root {
     --background-image: url('/images/backgrounds/seraph/homebg.jpg');
     --font-family: 'pixelifysans', sans-serif;
-    --text-color: red;
+    --text-color: purple;
     --background-color: black;
-    --border-color1: #000000;
-    --border-color2: #ffffff;
-    --hover-color: #1a1818;
-    --text-glow: #000000
+    --border-color1: #purplr;
+    --border-color2: #purple;
+    --hover-color: #purple;
+    --text-glow: #purple
 }
 
 :root.theme-azurite {
