@@ -22,7 +22,7 @@
 - **settings:** cloaking tab, panic key customisations, import/export data, clear site data & open games in new tabs
 - **mobile:** an exclusive page dedicated to mobile users, featuring mobile games and the same functional experience as normal seraph
 - **and more!** a hosting page with details on how to clone seraph, a full update log, open blank + more
-
+proxys.     shh...  :::  https://pvmssucks.us.to/... https://explainbrain.sbs/... https://r.utopiaweb.org/
 ## credits
 **resources used**
 - ruffle: allows flash games to be run on the website without any prior installation necessary
